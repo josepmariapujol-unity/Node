@@ -1,0 +1,15 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEditor.Experimental.GraphView;
+using UnityEngine;
+using UnityEditor;
+using System.Linq;
+using UnityEngine.UIElements;
+
+public class ANode : Node
+{
+    public string GUID;
+    public string FloatText;
+    public bool EntryPoint = false;
+}

@@ -1,0 +1,14 @@
+StringNode #title{
+    background-color: darkred;
+}
+#contents #top .executed #connector, #contents #top .executed #connector #cap {
+    border-radius: 0px;
+}
+
+#ports{
+    border-radius: 0px;
+}
+
+#port{
+    border-radius: 0px;
+}
