@@ -16,11 +16,13 @@
       <Path>Library/PackageCache/com.unity.visualscripting@1.6.1</Path>
       <Path>Packages</Path>
       <Path>ProjectSettings</Path>
+      <Path>../../../Downloads/NodeBasedDialogueSystem-master</Path>
     </explicitIncludes>
     <explicitExcludes>
       <Path>.idea</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
+      <Path>Temp</Path>
       <Path>UserSettings</Path>
       <Path>obj</Path>
     </explicitExcludes>
